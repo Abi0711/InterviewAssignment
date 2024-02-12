@@ -1,0 +1,14 @@
+C:\source\repos\InterviewAssigment\InterviewAssigment\bin\Debug\net8.0\InterviewAssigment.exe
+C:\source\repos\InterviewAssigment\InterviewAssigment\bin\Debug\net8.0\InterviewAssigment.deps.json
+C:\source\repos\InterviewAssigment\InterviewAssigment\bin\Debug\net8.0\InterviewAssigment.runtimeconfig.json
+C:\source\repos\InterviewAssigment\InterviewAssigment\bin\Debug\net8.0\InterviewAssigment.dll
+C:\source\repos\InterviewAssigment\InterviewAssigment\bin\Debug\net8.0\InterviewAssigment.pdb
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.AssemblyInfoInputs.cache
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.AssemblyInfo.cs
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.csproj.CoreCompileInputs.cache
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.dll
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\refint\InterviewAssigment.dll
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.pdb
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\InterviewAssigment.genruntimeconfig.cache
+C:\source\repos\InterviewAssigment\InterviewAssigment\obj\Debug\net8.0\ref\InterviewAssigment.dll
